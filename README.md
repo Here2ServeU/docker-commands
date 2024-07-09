@@ -31,7 +31,7 @@ I hope this gets you started on Docker. Enjoy!
 ### Execute Command in Container
 * docker exec -it <container-id> bash # Execute a command in a running container in interactive mode
 
-## Intermediate commands
+## Section Two: Intermediate commands
 ### Build Commands
 * docker build -t <image-name>. # Build an image from a Dockerfile
 
@@ -57,7 +57,7 @@ I hope this gets you started on Docker. Enjoy!
 * docker volume rm <volume-name> # Remove a volume
 
 
-## Advanced Commands
+## Section Three: Advanced Commands
 ### Docker Compose Commands
 * docker-compose up # Start services defined in a docker-compose.yml file
 * docker-compose down # Stop services defined in a docker-compose.yml file
