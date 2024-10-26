@@ -64,7 +64,7 @@ I hope this gets you started on Docker. Enjoy!
 * ***docker-compose ps*** # List all services defined in a docker-compose.yml file
 * ***docker-compose logs <service-name>*** # Show the logs of a service defined in a docker-compose.yml file
 * ***docker-compose exec <service-name> bash*** # Execute a command in a service defined in a docker-compose.yml file in interactive mode
-* ***docker-compose buildv # Build services defined in a docker-compose.yml file
+* ***docker-compose build*** # Build services defined in a docker-compose.yml file
 * ***docker-compose pull*** # Pull services defined in a docker-compose.yml file
 
 ### Docker Stack Commands
