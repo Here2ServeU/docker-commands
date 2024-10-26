@@ -94,7 +94,7 @@ I hope this gets you started on Docker. Enjoy!
 * ***docker node update --availability active <node-id>*** # Activate a node
 * ***docker node rm <node-id>*** # Remove a node
 
-  ### Docker Secret Commands
+### Docker Secret Commands
 * ***docker secret create <secret-name> <file>*** # Create a secret
 * ***docker secret ls*** # List all secrets
 * ***docker secret inspect <secret-name>*** # Show the details of a secret
